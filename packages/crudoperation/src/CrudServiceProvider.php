@@ -1,6 +1,6 @@
 <?php
 namespace Crudoperation;
-use crudoperation\Console\MakeApiCrud;
+use Crudoperation\Console\MakeApiCrud;
 use Crudoperation\Console\MakeCommentable;
 use Crudoperation\Console\MakeCrud;
 use Crudoperation\Console\MakeViews;
